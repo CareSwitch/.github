@@ -6,8 +6,7 @@ We do this by building shared tools and common practices to create more consiste
 
 ## 🔧 Our stack
 
-- REST API using Node.js, [Hapi](https://hapi.dev), [Mongoose](https://mongoosejs.com)
-- Client SPA using [Svelte](https://svelte.dev), [Carbon](https://carbon-svelte.vercel.app)
+- Transitional app using [Svelte Kit](https://kit.svelte.dev/), [Carbon](https://carbon-svelte.vercel.app/), [UnoCSS](https://github.com/antfu/unocss#readme)
 - TypeScript React Native app using [Tailwind](https://github.com/jaredh159/tailwind-react-native-classnames/tree/v2#tailwind-react-native-classnames-v2-%EF%B8%8F)
 
 Interested? [We're hiring](https://www.careswitch.com/careers?gh_jid=4029827004).
