@@ -6,7 +6,6 @@ We do this by building shared tools and common practices to create more consiste
 
 ## 🔧 Our stack
 
-- Transitional app using [Svelte Kit](https://kit.svelte.dev/), [Carbon](https://carbon-svelte.vercel.app/), [Windi CSS](https://windicss.org/)
-- TypeScript React Native app using [Tailwind](https://github.com/jaredh159/tailwind-react-native-classnames/tree/v2#tailwind-react-native-classnames-v2-%EF%B8%8F)
-
-Interested? [We're hiring](https://www.careswitch.com/careers?gh_jid=4029827004).
+- [Blazor Server](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) web app
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/) iOS app
+- [Jetpack Compose](https://developer.android.com/jetpack/compose) Android app
