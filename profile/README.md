@@ -6,6 +6,6 @@ We do this by building shared tools and common practices to create more consiste
 
 ## 🔧 Our stack
 
-- [SvelteKit]([https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor](https://kit.svelte.dev/)) web app
+- [SvelteKit](https://kit.svelte.dev/) web app
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/) iOS app
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) Android app
