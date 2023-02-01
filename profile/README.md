@@ -6,6 +6,6 @@ We do this by building shared tools and common practices to create more consiste
 
 ## 🔧 Our stack
 
-- [SvelteKit](https://kit.svelte.dev/) web app
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/) iOS app
-- [Jetpack Compose](https://developer.android.com/jetpack/compose) Android app
+- [SvelteKit](https://kit.svelte.dev/) progressive web app
+- [MongoDB](https://www.mongodb.com) database
+- [Vercel](https://vercel.com) serverless deployments
