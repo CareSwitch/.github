@@ -1,11 +1,11 @@
 ## 💡 What we do
 
-Careswitch is building the world’s largest network of home care providers, caregivers, families, clients, and partners to create a more stable, coordinated home care experience for all.
-
-We do this by building shared tools and common practices to create more consistency and transparency in the home care experience. Together, we leverage our collective scale to unlock more economic opportunity and improve quality of life for everyone in the home care community.
+[Careswitch](https://www.careswitch.com/) is building the most advanced AI-powered operating system for home care.
 
 ## 🔧 Our stack
 
-- [SvelteKit](https://kit.svelte.dev/) progressive web app
+- [LangChain](https://python.langchain.com/docs/get_started/introduction.html) and [Guidance](https://github.com/microsoft/guidance) for orchestrating large language models
+- [SvelteKit](https://kit.svelte.dev/) web app
+- [React Native](https://reactnative.dev/) mobile app
 - [MongoDB](https://www.mongodb.com) database
 - [Vercel](https://vercel.com) serverless deployments
