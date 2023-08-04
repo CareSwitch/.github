@@ -4,7 +4,7 @@
 
 ## 🔧 Our stack
 
-- [LangChain](https://python.langchain.com/docs/get_started/introduction.html) and [Guidance](https://github.com/microsoft/guidance) for orchestrating large language models
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) for orchestrating large language models
 - [SvelteKit](https://kit.svelte.dev/) web app
 - [React Native](https://reactnative.dev/) mobile app
 - [MongoDB](https://www.mongodb.com) database
