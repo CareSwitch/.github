@@ -4,8 +4,6 @@
 
 ## 🔧 Our stack
 
-- [Vercel AI SDK](https://sdk.vercel.ai/docs) for orchestrating large language models
-- [SvelteKit](https://kit.svelte.dev/) web app
-- [React Native](https://reactnative.dev/) mobile app
+- [SvelteKit](https://kit.svelte.dev/) web platform
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Jetpack Compose](https://developer.android.com/develop/ui/compose) mobile apps
 - [MongoDB](https://www.mongodb.com) database
-- [Vercel](https://vercel.com) serverless deployments
